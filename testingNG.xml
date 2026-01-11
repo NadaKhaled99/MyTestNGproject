@@ -1,0 +1,8 @@
+<suite name="Testing web browser">
+    <test name="Mytestproject">
+        <classes>
+            <class name="FirstTestNgClass"/>
+            <class name="SecondTestNgClass"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
