@@ -49,8 +49,9 @@ public class FirstTestNgClass {
     public void logout() {
         System.out.println("Logging out");
     }
-}
-//@Test
-// public void closeBrowser(){
-//     System.out.println("Closing browser"); }
 
+@Test
+ public void closeBrowser(){
+     System.out.println("Closing browser");
+    }
+}
